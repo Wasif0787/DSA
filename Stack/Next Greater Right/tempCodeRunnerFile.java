@@ -1,0 +1,1 @@
+ int next[] = new int[arr.length];
